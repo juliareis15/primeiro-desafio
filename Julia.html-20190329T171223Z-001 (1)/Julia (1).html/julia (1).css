@@ -1,0 +1,16 @@
+body{
+	background-color: black;
+}
+.subtitulo{
+	display: inline-block;	
+	width: 200px;
+	height: 250px;
+	background-color: rgba(255,76,0,0.8);
+	padding: 50px;
+	margin: 50px;
+	box-shadow: 10px 10px 90px white;
+	border-radius: 40%;
+}
+
+
+
